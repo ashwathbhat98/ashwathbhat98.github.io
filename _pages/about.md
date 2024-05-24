@@ -1,25 +1,28 @@
 ---
 layout: about
-title: about
+title: bio
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: Hello There!
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: p_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>💻 Software Engineer </p>
+    <p>📍 San Jose, CA, USA</p>
 
 news: true # includes a list of news items
-selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true # includes social icons at the bottom of the page
+selected_papers: false # includes a list of papers marked as "selected={true}"
+social: yes # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I'm a Software Engineer at PayPal Inc., reporting to [Minesh Desai](https://www.linkedin.com/in/mineshdesai/), where I am involved in building the next-generation payments ecosystem.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+I hold a master's degree from Arizona State University, Tempe, where I worked with the [TOMNET Lab](https://tomnet-utc.engineering.asu.edu/) under the guidance of [Dr. Ram M. Pendyala](https://search.asu.edu/profile/980477) and the mentorship of [Dr. Irfan Batur](https://search.asu.edu/profile/3243599). My research was focused on uncovering trends and patterns in the Time Use, Travel, and Telework behaviors across various sociodemographic attributes in the United States. I built an open-source platform, [T3 Dashboard](https://tomnetutc.github.io/t3d/), offering instant insights using the ATUS data.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Before my master's, I worked for two years as a Software Engineer with Citi India, Citigroup. During the first year, I was building the Citi Velocity - Research platform and transforming the legacy services into microservices. In my second year, I was part of the TTS organization, managing the payments middleware (payment validation and optimization) for its clients in the CEE/MENA regions. I was recognized with the Citi Gratitude Gold Award for outstanding contributions to project success by senior management.
+
+I am also generally interested in building scalable microservices and cloud-native applications. Lately, I've been delving deep into the world of distributed systems.
+
+Interesting project/opportunity? Reach me at ashwathbhat02[at]gmail[dot]com

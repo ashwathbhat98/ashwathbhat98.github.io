@@ -31,7 +31,7 @@ pagination:
 
 {% if site.display_tags or site.display_categories %}
 
-  <div class="tag-category-list">
+  <!-- <div class="tag-category-list">
     <ul class="p-0 m-0">
       {% for tag in site.display_tags %}
         <li>
@@ -53,7 +53,7 @@ pagination:
         {% endunless %}
       {% endfor %}
     </ul>
-  </div>
+  </div> -->
   {% endif %}
 
 {% assign featured_posts = site.posts | where: "featured", "true" %}

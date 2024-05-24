@@ -1,4 +1,6 @@
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I'm a Software Engineer II at PayPal, Inc., reporting to [Minesh Desai](https://www.linkedin.com/in/mineshdesai/), working on building the next generation payments platform.
+
+Previously, I was a masters student at Arizona State University, Tempe where I worked with the [TOMNET Lab](https://tomnet-utc.engineering.asu.edu/) advised by [Dr. Ram M. Pendyala](https://search.asu.edu/profile/980477) and mentored by [Dr. Irfan Batur](https://search.asu.edu/profile/3243599). My research was focused on
 
 Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
 
