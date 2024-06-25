@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Moved to Bay Area :house:
+Moved to Bay Area!

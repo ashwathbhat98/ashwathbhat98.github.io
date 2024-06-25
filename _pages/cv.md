@@ -1,11 +1,11 @@
 ---
 layout: cv
-permalink: /cv/
+permalink: /resume/
 title: resume
 nav: true
 nav_order: 5
-cv_pdf: example_pdf.pdf
-description: This is a description of the page. You can modify it in '_pages/cv.md'. You can also change or remove the top pdf download button.
+# cv_pdf: Ashwath_Bhat_Laxminarayana.pdf
+description: This page will be updated soon.  
 # toc:
 #   sidebar: left
 ---
